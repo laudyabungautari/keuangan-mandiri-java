@@ -18,7 +18,7 @@ dan terstruktur.
 2. Jalankan file `MainApp.java`
 
 ## Pengembang
-Nama         : Laudia Bunga Utari 
-               Sukirno
+1. Laudia Bunga Utari
+2. Sukirno
 Program Studi: Teknik Informatika  
 Universitas  : Universitas Pamulang
