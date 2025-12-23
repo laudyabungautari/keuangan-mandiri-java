@@ -1,2 +1,24 @@
-# keuangan-mandiri-java
-Aplikasi Manajemen Keuangan Mandiri berbasis Java Desktop
+# SIMANDI – Sistem Informasi Keuangan Mandiri
+SIMANDI adalah aplikasi desktop berbasis Java yang digunakan untuk
+mengelola dan mencatat transaksi keuangan mandiri secara sederhana
+dan terstruktur.
+
+## Tujuan Aplikasi
+- Membantu pengguna mencatat pemasukan dan pengeluaran
+- Mengurangi pencatatan manual
+- Menyajikan data transaksi secara rapi
+  
+## Fitur Utama
+- Input transaksi keuangan
+- Kategori pemasukan dan pengeluaran
+- Riwayat transaksi
+
+## Cara Menjalankan
+1. Buka project di NetBeans
+2. Jalankan file `MainApp.java`
+
+## Pengembang
+Nama         : Laudia Bunga Utari 
+               Sukirno
+Program Studi: Teknik Informatika  
+Universitas  : Universitas Pamulang
