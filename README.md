@@ -17,6 +17,9 @@ dan terstruktur.
 1. Buka project di NetBeans
 2. Jalankan file `MainApp.java`
 
+   Atau anda bisa donwload pada link berikut ini:
+
+
 ## Pengembang
 1. Laudia Bunga Utari
 2. Sukirno
