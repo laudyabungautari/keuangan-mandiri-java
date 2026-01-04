@@ -18,7 +18,7 @@ dan terstruktur.
 2. Jalankan file `MainApp.java`
 
    Atau anda bisa donwload pada link berikut ini:
-
+   https://github.com/laudyabungautari/keuangan-mandiri-java/releases/download/SIMANDI_1.01/SIMANDI.exe
 
 ## Pengembang
 1. Laudia Bunga Utari
